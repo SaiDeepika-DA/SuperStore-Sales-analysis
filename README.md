@@ -1,4 +1,4 @@
-# Superstore Sales & profitability analysis
+📚Superstore Sales & profitability analysis
 
 📌Problem
   Analyzed 9,977 retail orders from a US-based superstore dataset to identify where the business was losing
